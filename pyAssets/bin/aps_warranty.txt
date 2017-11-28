@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<head>	
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+		<title>Warranty - Aquarian Pool &amp; Spa</title>
+                        <script>
+                            /* You can add more configuration options to webfontloader by previously defining the WebFontConfig with your options */
+                            if ( typeof WebFontConfig === "undefined" ) {
+                                WebFontConfig = new Object();
+                            }
+                            WebFontConfig['google'] = {families: ['Open+Sans:300,400,600,700,800,300italic,400italic,600italic,700italic,800italic', 'Lobster+Two:400,700,400italic,700italic&amp;subset=latin']};
+
+                            (function() {
+                                var wf = document.createElement( 'script' );
+                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.type = 'text/javascript';
+                                wf.async = 'true';
+                                var s = document.getElementsByTagName( 'script' )[0];
+                                s.parentNode.insertBefore( wf, s );
+                            })();
+                        </script>
+                        
+<!-- This site is optimized with the Yoast SEO plugin v3.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://aquarianpoolandspa.com/warranty/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Warranty - Aquarian Pool &amp; Spa" />
+<meta property="og:url" content="http://aquarianpoolandspa.com/warranty/" />
+<meta property="og:site_name" content="Aquarian Pool &amp; Spa" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Warranty - Aquarian Pool &amp; Spa" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//s.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Aquarian Pool &amp; Spa &raquo; Feed" href="http://aquarianpoolandspa.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Aquarian Pool &amp; Spa &raquo; Comments Feed" href="http://aquarianpoolandspa.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aquarianpoolandspa.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='dashicons-css'  href='http://aquarianpoolandspa.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-jquery-ui-dialog-group-css' href='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-wp-jquery-ui-dialog-c0df39aa9bf185023b8555dd5c6a74a9.css' type='text/css' media='all' />
+<link rel='stylesheet' id='builtpress-owl.carousel-group-css' href='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-builtpress-owl.carousel-fd4ccd2c56ac4d10e0b699b340744e08.css' type='text/css' media='all' />
+<link rel='stylesheet' id='builtpress-shortcodes-group-css' href='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-builtpress-shortcodes-20f2b3a5059091bfbcf4f86796b7ea63.css' type='text/css' media='all' />
+<style id='builtpress-style-inline-css' type='text/css'>
+body .vc_progress_bar .vc_single_bar .vc_bar,body .vc_images_carousel .vc_carousel-indicators .vc_active,.btn, button,.button,html input[type='button'], input[type='reset'], input[type='submit'],input.button,.load-more a,a.button,.wc-forward,.address .edit,.header-button,.portfolio-link a:hover,.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button,.woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt,.woocommerce .widget_price_filter .ui-slider .ui-slider-handle,.st-button.style-1:hover,.st-button.style-2:hover,.wpb_color .st-button.style-1:hover,.wpb_color .st-button.style-2:hover,.st-pricingbox.style-1 .box-link a:hover,.st-pricingbox.style-1.box-featured .box-link a,.st-pricingbox.style-1.box-featured .box-link a:hover,.st-social a::after,.st-iconbox.style-3:hover,.st-iconbox.style-1 .box-icon::after,.widget.widget_tag_cloud a:hover, .widget.widget_product_tag_cloud a:hover,.owl-theme .owl-controls .owl-page.active span{background-color:#5c88a8;}.st-button.style-1:hover,.st-button.style-2:hover,.wpb_color .st-button.style-1:hover,.wpb_color .st-button.style-2:hover,.st-pricingbox.style-1:hover, .st-pricingbox.style-1.box-featured,.st-pricingbox.style-1 .box-link a:hover,.st-pricingbox.style-1.box-featured .box-link a,.st-pricingbox.style-1.box-featured .box-link a:hover,.widget-title::before,.format-standard .blog-container .post-thumb::before,.format-standard .blog-container .post-thumb::after,.st-blog .blog-container .post-thumb::before,.st-blog .blog-container .post-thumb::after,.portfolio-container.style-2 .portfolio-image::before,.portfolio-container.style-2 .portfolio-image::after,.service-container.style-2 .service-image::before,.service-container.style-2 .service-image::after,.load-filter li a::after,.portfolio-link a:hover,.st-metabox,.sticky .blog-container,.owl-theme .owl-controls .owl-page.active span{border-color:#5c88a8;}h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover,.header-style-v1 .header-skin-default ul.primary-menu > li > a:hover,.header-style-v1 .header-skin-default ul.primary-menu > li:hover > a,.header-style-v1 .header-skin-default ul.primary-menu > li.current_page_item > a,.header-style-v1 .header-skin-default ul.primary-menu > li.current-menu-parent > a,.header-style-v1 .header-skin-default ul.primary-menu > li.current-menu-ancestor > a,.header-skin-transparent ul.primary-menu > li > a:hover,.header-skin-transparent ul.primary-menu > li:hover > a,.header-skin-transparent ul.primary-menu > li.current_page_item > a,.header-skin-transparent ul.primary-menu > li.current-menu-parent > a,.header-skin-transparent ul.primary-menu > li.current-menu-ancestor > a,#header-wrapper .header-left-info li .header-label,.st-iconbox .box-icon,.st-countdown .countdown-amount,.service-link a, .more-link a,.blog-container:hover .post-meta i, .blog-container:hover .post-meta strong,.woocommerce .star-rating span::before,.woocommerce p.stars a:hover,.st-social a,.service-container.style-1:hover .service-content h4,.blog-container .post-title a:hover{color:#5c88a8;}.title-holder { padding-top:5px; }.title-holder { padding-bottom:5px; }.page-title { color:#4e738f !important; }.page-subtitle { color:#5c88a8 !important; }.breadcrumb li, .breadcrumb li a, .breadcrumb > .active { color:#ffffff !important; }#content-wrapper.is-vc .post-content > .wpb_padding:first-child { padding-top:80px; }
+</style>
+<link rel='stylesheet' id='bsf-Defaults-group-css' href='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-bsf-Defaults-0c43363d069c88b596ad7377dd301067.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-ultimate-script-989dfbf4ee6ad414c0908fce4abe14f8.js'></script>
+<link rel='https://api.w.org/' href='http://aquarianpoolandspa.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://aquarianpoolandspa.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://aquarianpoolandspa.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.1" />
+<link rel='shortlink' href='http://wp.me/P7qqpZ-3r' />
+<link rel="alternate" type="application/json+oembed" href="http://aquarianpoolandspa.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faquarianpoolandspa.com%2Fwarranty%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://aquarianpoolandspa.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Faquarianpoolandspa.com%2Fwarranty%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'>
+<link rel='dns-prefetch' href='//i0.wp.com'>
+<link rel='dns-prefetch' href='//i1.wp.com'>
+<link rel='dns-prefetch' href='//i2.wp.com'>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="shortcut icon" href="http://aquarianpoolandspa.com/home/wp-content/uploads/2016/03/logoOnly-2-e1457577009614.png" />		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="http://aquarianpoolandspa.com/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="http://aquarianpoolandspa.com/wp-content/plugins/js_composer/assets/css/vc-ie8.min.css" media="screen"><![endif]-->
+<!-- BEGIN GADWP v4.9.3.2 Universal Tracking - https://deconf.com/google-analytics-dashboard-wordpress/ -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-49804811-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<!-- END GADWP Universal Tracking -->
+
+<style type="text/css" title="dynamic-css" class="options-output">#header.header-skin-default #topbar-wrapper a:hover{color:#395469;}.page-title{color:#4e738f;}.page-subtitle{color:#5c88a8;}.breadcrumb li, .breadcrumb li a, .breadcrumb > .active{color:#ffffff;}#footer{background-color:rgba(0,129,195,1);}#footer-wrapper .widget-title{color:#ffffff;}#footer-wrapper a:hover{color:#85c5f5;}#copyright-wrapper a:hover{color:#85c5f5;}body{font-family:"Open Sans";opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading body,{opacity: 0;}.ie.wf-loading body,{visibility: hidden;}.header-skin-default ul.primary-menu li > a{font-family:"Lobster Two";font-style:normal;opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading .header-skin-default ul.primary-menu li > a,{opacity: 0;}.ie.wf-loading .header-skin-default ul.primary-menu li > a,{visibility: hidden;}h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{font-family:"Lobster Two";opacity: 1;visibility: visible;-webkit-transition: opacity 0.24s ease-in-out;-moz-transition: opacity 0.24s ease-in-out;transition: opacity 0.24s ease-in-out;}.wf-loading h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,{opacity: 0;}.ie.wf-loading h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6,{visibility: hidden;}</style><noscript><style type="text/css"> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript>	
+</head>
+
+<body class="page page-id-213 page-template-default layout-wide header-style-v1 wpb-js-composer js-comp-ver-4.9.2 vc_responsive">
+
+<div id="st-wrapper">
+<!-- header -->
+<header id="header" class="header-skin-default" role="banner">
+    <div id="topbar-wrapper">
+	
+	<div class="container">
+	<div class="row">
+	
+		<div class="col-md-8 col-sm-8 col-xs-12">
+		
+			<div class="topbar-left">
+				<ul class="list-inline">
+				<li><span class="topbar-label">info@aquarianpoolandspa.com</span><span class="topbar-hightlight">401-332-9183</span></li>				</ul>
+			</div>
+			
+		</div>
+		
+		<div class="col-md-4 col-sm-4 hidden-xs">
+			
+			<div class="topbar-right text-right">
+				<div class="st-social"><ul class="list-inline"><li><a class="fa fa-facebook" href="http://www.facebook.com/aquarianpoolandspa/" title="Facebook" target="_blank"></a></li><li><a class="fa fa-google-plus" href="https://plus.google.com/103298726135555126409/about" title="Google+" target="_blank"></a></li><li><a class="fa fa-linkedin" href="https://www.linkedin.com/in/mark-grover-6b346893" title="LinkedIn" target="_blank"></a></li><li><a class="fa fa-instagram" href="https://www.instagram.com/aquarianpoolandspa/" title="Instagram" target="_blank"></a></li></ul></div>			</div>
+			
+		</div>
+	
+	</div>
+	</div>
+	
+</div>	<div id="header-wrapper" class="header-stick">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<a id="toggle-mobile-menu" class="toggle-menu"><span></span></a>
+					<div class="header-right">
+						<div class="header-top">
+							<div class="header-left-info">
+
+							</div>
+						</div>
+						<div class="header-bottom">
+							<nav id="primary-nav" role="navigation">
+								<div class="menu-site_main_nav-container"><ul id="primary-menu" class="primary-menu list-inline"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14"><a href="http://aquarianpoolandspa.com/">Home</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-17"><a href="http://aquarianpoolandspa.com/about-us/">About</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://aquarianpoolandspa.com/portfolio/">Portfolio</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://aquarianpoolandspa.com/services/">Services</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://aquarianpoolandspa.com/contact-us/">Contact</a></li>
+</ul></div>							</nav>
+						</div>
+					</div>
+				</div>
+				<div class="logo-name-container text-center">
+					<div class="header-logo">
+						<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg-editor-canvas" class="canvas"><g data-item-type="image" data-item="Image" data-logo-item="" id="mg-logo-item-0" class="mg-logo"><g class="logo-scale"></g><g class="mg-logo-inner" transform="rotate(28.93804292215772 826.3357483136283 826.842730898579) "><g><path fill="none" d="M961.3,210.9C1200.9,441,1208.1,660,1137.9,835.2c16.8,4.7,33.6,8.6,50.5,11.3   C1317.3,432.6,961.3,210.9,961.3,210.9z" data-part-id="mg_logo_item0"></path><path fill="#00A9DE" d="M269.3,1049.9c386.9,474.3,778,99.8,778,99.8C614.6,1461.8,269.3,1049.9,269.3,1049.9z" data-part-id="mg_logo_item1"></path><path fill="#5CC2E7" d="M1131.4,981.9c-25.5,48.4-57.5,98.9-97,151.5c56-39.4,105.3-90,144.5-150.6   C1163.9,983.8,1148.1,983.6,1131.4,981.9z" data-part-id="mg_logo_item2"></path><path fill="#5CC2E7" d="M98.7,779.5c-29.1,54.1,49.9,145.6,95.7,166.4C194.4,945.9,127.9,725.4,98.7,779.5z" data-part-id="mg_logo_item3"></path><path fill="#5CC2E7" d="M1086.1,701.8c0-33.7-27.3-61-61-61c-33.7,0-61,27.3-61,61c0,33.7,27.3,61,61,61   C1058.8,762.9,1086.1,735.5,1086.1,701.8z" data-part-id="mg_logo_item4"></path><path fill="#5CC2E7" d="M425.7,980.2C302.9,882,304.5,663,295.5,626.6c-9-36.3-92.5-131.4-104,30   C179.9,818,425.7,980.2,425.7,980.2z" data-part-id="mg_logo_item5"></path><path fill="#5CC2E7" d="M961.3,210.9c0,0,356,221.7,227.1,635.6c17.7,2.9,35.3,4.5,53,4.6c77.7-243.1-23-515.4-254.2-645.3   c-32-18-65-32.3-98.5-43.3c221.3,133.8,298.9,418.8,174.3,646.7c24.8,10,49.9,19,75,26C1208.1,660,1200.9,441,961.3,210.9z" data-part-id="mg_logo_item6"></path><path fill="#5CC2E7" d="M1014.5,778.9c-1.6,2.5-3.2,4.9-4.9,7.4l1.3,0.6C1013.3,781.8,1014.5,778.9,1014.5,778.9z" data-part-id="mg_logo_item7"></path><path fill="#5CC2E7" d="M919,915.6c-6.7-2.7-13.3-5.3-19.9-8c-197.6,152.6-436.1,67.6-436.1,67.6   C687.5,1073.9,833.8,999.6,919,915.6z" data-part-id="mg_logo_item8"></path><path fill="#5CC2E7" d="M448.8,1163.2c67.4,37.9,139.4,60,211.8,67.5l-43.3-18.5c244.1,33.3,416-199.7,416-199.7l-2.2,4.1   c11.8-15.1,23.4-31,34.6-47.4c-7-2-14.1-4.2-21.3-6.6c-27.5-9.3-53.7-19-79-28.7c-150.2,137.9-377.7,170.7-565.1,65.3   C280.8,931.9,200.9,821.4,169,698.3C173.9,885.2,274,1064.9,448.8,1163.2z" data-part-id="mg_logo_item9"></path><path fill="#0081C3" d="M1241.3,851.2c-17.6-0.1-35.3-1.8-53-4.6c-16.8-2.7-33.7-6.6-50.5-11.3c-25.1-7-50.2-16-75-26   c-17.4-7-34.8-14.6-52-22.4l-1.3-0.6c-96.2-43.6-187.9-93.8-267.5-98.3C548,676.9,370.5,848.8,370.5,848.8   c17.8-9.5,35.1-17.5,52.1-24.5c180.4-74,315.3-9.6,499.5,64.2c5.4,2.2,10.8,4.3,16.3,6.5c15.6,6.2,31.5,12.4,47.8,18.5   c21.5,8.1,43.5,16.2,66.5,24c9.6,3.2,18.9,6,28,8.5c22.2,5.9,43.2,9.6,63.1,11.2c17.8,1.5,34.6,1.5,50.5,0.1   c123.4-10.7,191.5-100.3,219.8-149.2c10.8-18.7,15.8-31.5,15.8-31.5C1369.2,831.6,1305.6,851.6,1241.3,851.2z" data-part-id="mg_logo_item10"></path><path fill="#0081C3" d="M844.8,907.1L806,879.3c0,0-122-44.4-160.9-33.3c-38.8,11.1-138.7,99.9-138.7,99.9   S656.2,1012.5,844.8,907.1z" data-part-id="mg_logo_item11"></path></g></g></g></svg>
+					</div>
+					<div class="logo-name">
+						<p class="logo">
+						Aquarian Pool And Spa
+						</p>
+					</div>
+					<ul class="mg-call-now-btn">
+						<li class="mg-call-now">
+							<a href="tel:+14013329183">
+											<span class="phone-icon">
+												<i class="fa fa-phone"></i>
+											</span>
+								<span class="mg-call-now-text">Call Now</span>
+							</a>
+						</li>
+					</ul>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</header>
+<!-- end header --><section id="title-wrapper">
+
+	<div class="container">
+	<div class="row">
+		
+		<div class="col-md-12">
+		
+			<div class="title-holder">
+			<div class="title-holder-cell text-left">
+			
+			<h1 class="page-title"><span>Warranty</span></h1><ol class="breadcrumb"><li><a href="http://aquarianpoolandspa.com/">Home</a></li><li class="active">Warranty</li></ol>			
+			</div>
+			</div>
+				
+		</div>
+	
+	</div>
+	</div>
+	
+	
+</section>	
+	<!-- main-container -->
+<section id="content-wrapper" class="is-vc">
+
+			
+		<!-- post entry -->
+<article id="post-213" class="page-single post-213 page type-page status-publish hentry">
+	
+		
+	<div class="post-content">
+		<div  class="vc_row wpb_row vc_row-fluid wpb_section wpb_padding"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper"><div id="ultimate-heading-6352580b8605744f2" class="uvc-heading ult-adjust-bottom-margin ultimate-heading-6352580b8605744f2 uvc-8980 mg-title" data-hspacer="no_spacer"  data-halign="center" style="text-align:center"><div class="uvc-heading-spacer no_spacer" style="top"></div><div class="uvc-main-heading ult-responsive"  data-ultimate-target='.uvc-heading.ultimate-heading-6352580b8605744f2 h2'  data-responsive-json-new='{"font-size":"","line-height":""}' ><h2 style="font-weight:normal;">Aquarian Pool &amp; Spa Warranty</h2></div></div><div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_separator_no_text  mg-separator"><span class="vc_sep_holder vc_sep_holder_l"><span  class="vc_sep_line"></span></span><span class="vc_sep_holder vc_sep_holder_r"><span  class="vc_sep_line"></span></span>
+</div></div></div></div></div></div></div><div  class="vc_row wpb_row vc_row-fluid wpb_section wpb_padding"><div class="container"><div class="row"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner "><div class="wpb_wrapper">
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
+		<div class="wpb_wrapper">
+			<div class="warranty-container">
+<div class="w-intro-wrap text-center">
+<p><span class="warranty-intro">All Labor comes with One Year Warranty.</span></p>
+
+<p><span class="warranty-note"> Most of our competitors only offer a 3 month warranty or less.</span></p>
+</div>
+<span class="warranty-heading">Washouts</span>
+<p class="warranty-content">After Pool Is Inspected by the town/city inspector, The Area Must be backfilled covering at least the rim of the bottom rails at all times. This is to prevent washouts. It's the responsibility of the home owner to do routine inspections of the pool and the area around the pool for potential washouts due to erosion of the soil. Failure to do so will void the warranty.</p>
+<span class="warranty-heading">Leaky Fittings</span>
+<p class="warranty-content">Leaky fittings on the exterior of the pool wall should be addressed as soon as the issue arrises. This is to prevent the chemicals in the water from breaking down the pools painted surface and rusting the metal wall. If you see a leak please call us and we will send one of our technicians out right away. If still in the first year we will provide the service free of charge.</p>
+
+<div class="separator-container"></div>
+<span class="warranty-heading">Is This Your First Pool?</span>
+<p class="warranty-content">Being a new pool owner can be a lot to take on at first. We meet many new pool owners every season. Don't hesitate to give us a call if you have any questions about your pool. If you see something your not sure about or just want to run something by us. We're here for you all year long.</p>
+<span class="warranty-heading">Merchandise Warranty</span>
+<p class="warranty-content">Any Supplies your purchase from us that has a manufactures defect that causes your liner to fail will be covered by us in house along with the labor involved in replacing the defective component. In the case of a manufactures defect we excuse ourself from the liability of replacing the water.</p>
+<span class="warranty-heading">Extended Warranty</span>
+<p class="warranty-content">With the purchase of all 3 protection supplies we extend the life our our warranty to Two Full Years Hassle Free Warranty on Labor and Supplies. If anything arrises in the first two years we will send one of our technician out free of charge to asses the concern. Weather related damage to the pool is not covered under warranty along with any inflicted damage done to the pool while in use. If any of these situations arise we will still send one of our technicians out to asses the damage and help you figure out all your options free of charge.</p>
+
+</div>
+		</div>
+	</div>
+</div></div></div></div></div></div>
+	</div>
+
+</article>
+<!-- end post entry -->		   
+			
+
+</section>
+<!-- end main-container -->
+	<!-- footer -->
+	<footer id="footer" role="contentinfo">
+		
+				<div id="footer-wrapper">
+		
+			<div class="container">
+			<div class="row">
+				
+				<div class="col-md-4 col-sm-6 col-xs-12"><div class="footer-container"><section id="tag_cloud-2" class="widget widget_tag_cloud"><h3 class="widget-title"><span>Categories</span></h3><div class="tagcloud"><a href='http://aquarianpoolandspa.com/portfolio-category/fence/' class='tag-link-21 tag-link-position-1' title='1 topic' style='font-size: 8pt;'>fence</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/install/' class='tag-link-18 tag-link-position-2' title='7 topics' style='font-size: 18.7692307692pt;'>install</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/liner/' class='tag-link-20 tag-link-position-3' title='3 topics' style='font-size: 13.3846153846pt;'>liner</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/portfolio/' class='tag-link-11 tag-link-position-4' title='1 topic' style='font-size: 8pt;'>portfolio</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/project/' class='tag-link-17 tag-link-position-5' title='11 topics' style='font-size: 22pt;'>project</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/repair/' class='tag-link-19 tag-link-position-6' title='1 topic' style='font-size: 8pt;'>repair</a>
+<a href='http://aquarianpoolandspa.com/portfolio-category/replacement/' class='tag-link-16 tag-link-position-7' title='1 topic' style='font-size: 8pt;'>replacement</a></div>
+</section></div></div><div class="col-md-4 col-sm-6 col-xs-12"><div class="footer-container"><section id="st-contact-wgt-2" class="widget st-contact-wgt"><h3 class="widget-title"><span>Contact Info</span></h3>		<ul>
+						<li><i class="fa fa-map-marker"></i> 11 Franklin St 
+Medway, Ma. 02053
+</li>
+									<li><i class="fa fa-phone"></i> (401)332-9183</li>
+												<li><i class="fa fa-envelope-o"></i> <a href="mailto:info@aquarianpoolandspa.com">info@aquarianpoolandspa.com</a></li>
+					</ul>
+		</section></div></div><div class="col-md-4 col-sm-6 col-xs-12"><div class="footer-container"><section id="search-3" class="widget widget_search"><h3 class="widget-title"><span>Search</span></h3><form role="search" action="http://aquarianpoolandspa.com/" id="searchform" method="get">
+	<input type="text" name="s" id="s" placeholder="Search..." />
+</form></section><section id="st-social-wgt-2" class="widget st-social-wgt"><div class="st-social"><ul class="list-inline"><li><a class="fa fa-facebook" href="http://www.facebook.com/aquarianpoolandspa/" title="Facebook" target="_blank"></a></li><li><a class="fa fa-google-plus" href="https://plus.google.com/103298726135555126409/about" title="Google+" target="_blank"></a></li><li><a class="fa fa-linkedin" href="https://www.linkedin.com/in/mark-grover-6b346893" title="LinkedIn" target="_blank"></a></li><li><a class="fa fa-instagram" href="https://www.instagram.com/aquarianpoolandspa/" title="Instagram" target="_blank"></a></li></ul></div></section></div></div>				
+			</div>
+			</div>
+		
+		</div>
+				
+				<div id="copyright-wrapper">
+				
+			<div class="container">
+			<div class="row">
+			
+								<div class="col-md-6 col-sm-12 col-xs-12">
+					<div>Created By Mark A Grover</div>					
+				</div>
+				
+								<div class="col-md-6 col-sm-12 col-xs-12">
+					<nav id="secondary-nav" class="text-right" role="navigation">
+											</nav>
+				</div>
+											
+			</div>
+			</div>
+			
+		</div>
+				
+	</footer>
+	<!-- end footer -->
+	
+</div>
+<!-- end .wrap -->
+
+<div class="scrollTop"><a href="#"><i class="fa fa-chevron-up"></i></a></div>
+
+	<div style="display:none">
+	</div>
+<script type='text/javascript' src='http://s0.wp.com/wp-content/js/devicepx-jetpack.js'></script>
+<script type='text/javascript' src='http://s.gravatar.com/js/gprofiles.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-jquery-ui-core-ea3ac382b98983c17249c0c090ea48ef.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-jquery-ui-button-8907eb2416c2fb7bd4a48f4e2544cf13.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/aquarianpoolandspa.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"sending":"Sending ...","cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-jetpack-photon-89350773234d0e61b37fba9e5348470a.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-builtpress-fitvids-d84f7cf4a7c98b916f1bdfe9e9808e2f.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-builtpress-waypoints-48e9331d18967ef94d9f206f90eb7696.js'></script>
+<script type='text/javascript' src='http://aquarianpoolandspa.com/wp-content/plugins/bwp-minify/cache/minify-b1-builtpress-html5-7ea3e7b48545e40bb9765569564a0595.js'></script>
+<script type='text/javascript' src='http://stats.wp.com/e-201642.js' async defer></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.2.2',blog:'109732435',post:'213',tz:'0',srv:'aquarianpoolandspa.com'} ]);
+	_stq.push([ 'clickTrackerInit', '109732435', '213' ]);
+</script>
+</body>
+</html>
+<!-- Dynamic page generated in 2.083 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2016-10-22 15:30:13 -->
+
+<!-- Compression = gzip -->
